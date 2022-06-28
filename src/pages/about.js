@@ -2,14 +2,14 @@ import * as React from "react";
 import Layout from "../components/Layout";
 
 // markup
-const IndexPage = () => {
+const AboutPage = () => {
   return (
     <Layout>
-      <title>Home Page</title>
+      <title>About Page</title>
 
-      <h1>my first blog</h1>
+      <h1>About Page</h1>
     </Layout>
   );
 };
 
-export default IndexPage;
+export default AboutPage;
